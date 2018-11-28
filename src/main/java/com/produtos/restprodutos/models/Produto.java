@@ -1,4 +1,4 @@
-package com.produtos.apiprodutos.models;
+package com.produtos.restprodutos.models;
 
 
 import javax.persistence.*;

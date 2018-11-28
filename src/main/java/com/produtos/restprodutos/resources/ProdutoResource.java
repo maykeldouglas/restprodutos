@@ -1,8 +1,8 @@
-package com.produtos.apiprodutos.resources;
+package com.produtos.restprodutos.resources;
 
 
-import com.produtos.apiprodutos.models.Produto;
-import com.produtos.apiprodutos.repository.ProdutoRepository;
+import com.produtos.restprodutos.models.Produto;
+import com.produtos.restprodutos.repository.ProdutoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

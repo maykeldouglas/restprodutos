@@ -1,6 +1,6 @@
-package com.produtos.apiprodutos.repository;
+package com.produtos.restprodutos.repository;
 
-import com.produtos.apiprodutos.models.Produto;
+import com.produtos.restprodutos.models.Produto;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface ProdutoRepository extends JpaRepository<Produto, Long> {
