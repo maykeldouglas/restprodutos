@@ -1,4 +1,4 @@
-package com.produtos.apiprodutos;
+package com.produtos.restprodutos;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class ApiprodutosApplicationTests {
+public class RestProdutosApplicationTests {
 
 	@Test
 	public void contextLoads() {
